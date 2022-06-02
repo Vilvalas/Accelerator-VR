@@ -8,4 +8,6 @@ Please be aware, that the game was tested with the DK2, so it might behave diffe
 
 Build with Unity Version 2017.3.0f3
 
+You can download the game here: <a target="_blank" href="https://drive.google.com/drive/folders/1s5dHHcSMQRsjphck1GJxgg-5gU09Xorx">Download Link</a>.
+
 ![Screenshot](img/acceleratorVr.png)
